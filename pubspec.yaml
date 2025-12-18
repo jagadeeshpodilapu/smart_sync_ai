@@ -1,8 +1,9 @@
 name: smart_sync_ai
 description: "A lightweight, reliable task + sync + AI processing engine"
 version: 0.0.1
-homepage:
+homepage: https://github.com/jagadeeshpodilapu/smart_sync_ai
 repository: https://github.com/jagadeeshpodilapu/smart_sync_ai
+issue_tracker: https://github.com/jagadeeshpodilapu/smart_sync_ai/issues
 
 environment:
   sdk: ^3.10.1
